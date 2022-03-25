@@ -58,7 +58,7 @@ PRODUCT_PACKAGES += \
 
 # Device-specific Settings
 PRODUCT_PACKAGES += \
-    XiaomiParts
+    Dirac
 
 # Audio
 PRODUCT_PACKAGES += \

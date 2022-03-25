@@ -5,7 +5,7 @@
 //
 
 android_app {
-    name: "XiaomiParts",
+    name: "Dirac",
 
     srcs: ["src/**/*.java"],
     resource_dirs: ["res"],
